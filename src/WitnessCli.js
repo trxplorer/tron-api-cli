@@ -8,6 +8,12 @@ import {
 } from './Constants'
 
 class WitnessCli{
+
+    /**
+     * Witness client
+     * 
+     * @param {string} endpoint Api endpoint
+     */
     constructor(endpoint=API_DEFAULT_ENDPOINT){
         this.endpoint = endpoint
     }

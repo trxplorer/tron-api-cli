@@ -8,6 +8,12 @@ import {
 } from './Constants'
 
 class BlockCli{
+
+    /**
+     * Block client
+     * 
+     * @param {string} endpoint Api endpoint
+     */
     constructor(endpoint=API_DEFAULT_ENDPOINT){
         this.endpoint = endpoint
     }
