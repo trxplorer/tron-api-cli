@@ -1,0 +1,17 @@
+{
+  "name": "tron-api-cli",
+  "version": "0.0.1",
+  "description": "Tron protocol client using trxplorer.io api",
+  "keywords":["tron","api","cli","trxplorer","node","js"],
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "trxplorer",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "google-protobuf": "^3.5.0",
+    "moment": "^2.22.1",
+    "@tronprotocol/wallet-api":"git://github.com/nfleury/node-wallet-api"
+  }
+}

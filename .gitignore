@@ -1,0 +1,10 @@
+node_modules
+proto
+*.code-workspace
+.settings
+.classpath
+.project
+.log
+log/
+hs_err_*.log
+logs/
