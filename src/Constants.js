@@ -1,4 +1,4 @@
-export const API_DEFAULT_ENDPOINT = "api.trxplorer.io/v0.1"
+export const API_DEFAULT_ENDPOINT = "api.trxplorer.io/v1"
 //ACOUNT
 export const API_ACCOUNT_INFO="/account/info"
 export const API_ACCOUNT_EXISTS="/account/exists"
