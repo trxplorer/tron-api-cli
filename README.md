@@ -16,7 +16,7 @@ yarn install tron-api-cli
 - Sign transaction 
 
 
-## Usage example
+## Usage example
 
 ``` javascript
 import tronapi from "tron-api-client"
